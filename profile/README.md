@@ -2,7 +2,7 @@
 
 
 <div align="center">
-  <h2>Stellate - Scale, inspect & protect your GraphQL API</h2>
+  <h2>Stellate: Scalable, Secure GraphQL APIs at the Edge</h2>
   <p>Never resolve the same GraphQL query twice</p>
   <p>Observability for every GraphQL request</p>
   <p>Protect your API against attacks and optimize performance</p>
